@@ -44,9 +44,9 @@ The analysis includes:
 
 ## 📁 Repository Structure
 📂 /src
-├── data_preprocessing.R
-├── functional_smoothing.R
-├── fpca.R
-├── functional_regression.R
-├── fanova.R
-├── tda_analysis.R
+- data_preprocessing.R
+- functional_smoothing.R
+- fpca.R
+- functional_regression.R
+- fanova.R
+- tda_analysis.R
